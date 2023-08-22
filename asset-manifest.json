@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/madang-restaurant/static/css/main.31d6cfe0.css",
+    "main.js": "/madang-restaurant/static/js/main.b24f3d50.js",
+    "index.html": "/madang-restaurant/index.html",
+    "main.b24f3d50.js.map": "/madang-restaurant/static/js/main.b24f3d50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b24f3d50.js"
+  ]
+}
